@@ -1,0 +1,14 @@
+<div class="circle-flex-item">
+              <div class="circle-img-container">
+                <img class="circle-img" alt="Spaces" src="https://s3.amazonaws.com/events.tnw/hardfork-2018/uploads/visuals/pillar-spaces.svg">
+              </div>
+              <h4 class="circle-img-text">Spaces</h4>
+              </div>
+            </div>
+            <div class="circle-flex-item">
+              <div class="circle-img-container">
+                <img class="circle-img" alt="Programs" src="https://s3.amazonaws.com/events.tnw/hardfork-2018/uploads/companies/pillar-programs.svg">
+              </div>
+              <h4 class="circle-img-text">Programs</h4>
+              </div>
+            </div>
